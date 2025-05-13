@@ -62,4 +62,8 @@
 
 感谢所有为这个项目做出贡献的人！
 
-[![贡献者](https://contrib.rocks/image?repo=TheCYPER/ServerSources)](https://github.com/TheCYPER/ServerSources/graphs/contributors)
+<a href="https://github.com/TheCYPER/ServerResources/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=TheCYPER/ServerResources" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
