@@ -57,3 +57,9 @@
 
 想要更换皮肤？可以访问我的皮肤仓库：
 [TheCYPER/MCSkin](https://github.com/TheCYPER/MCSkin)
+
+## 贡献者
+
+感谢所有为这个项目做出贡献的人！
+
+[![贡献者](https://contrib.rocks/image?repo=TheCYPER/ServerSources)](https://github.com/TheCYPER/ServerSources/graphs/contributors)
