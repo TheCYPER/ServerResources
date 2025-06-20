@@ -2,13 +2,13 @@
 
 ## 基本信息
 - **所有者**: Weston
-- **坐标**: 281,62,561
+- **坐标**: 242,62,572
 - **建造日期**: 2025
 
 ## 照片
-![image](/Pictures/Weston_Vi1.png)
-![image](/Pictures/Weston_Vi2.png)
-![image](/Pictures/Weston_Vi3.png)
+![image](/Pictures/Weston_Su1.png)
+![image](/Pictures/Weston_Su2.png)
+![image](/Pictures/Weston_Su3.png)
 
 ## 描述
 - 自动甘蔗机
